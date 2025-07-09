@@ -1,4 +1,9 @@
-autogen
-python-dotenv
-streamlit
+langchain-community        
+langchain-core             
+streamlit                  
+langchain                  
+python-dotenv              
+langchain_groq             
+transformers               
 scholarly
+autogen
