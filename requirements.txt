@@ -1,4 +1,4 @@
 autogen
-scholary
 python-dotenv
 streamlit
+scholarly
